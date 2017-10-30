@@ -18,9 +18,9 @@
  
  例子
  ==
- #include <stdio.h>
-    int main(void)
-    {
-        printf("Hello world\n");
-    }
 
+```javascript
+  var ihubo = {
+    nickName  : "草依山",
+    site : "http://jser.me"
+  }
