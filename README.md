@@ -2,7 +2,7 @@
 
 接口名称: 药品目录化学药中成药列表    
 
-接口地址: http://192.168.20.225:8080/hpms/api/mcdProduct30/listHisProduct
+接口地址: `http://192.168.20.225:8080/hpms/api/mcdProduct30/listHisProduct`
 
 请求方法: POST                      
 
