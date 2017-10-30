@@ -20,7 +20,7 @@
  
  | 参数名称 | 是否必须 | 类型 | 默认值 | 描述 |
  | ------ | ------ | ------- |  ------- |  ------- |
- | drugId |  false |  string | 0000027103 | 药品ID |
+ | <font color=#00ffff size=3>drugId</font> |  false |  string | 0000027103 | 药品ID |
 
 ##响应
  
@@ -33,8 +33,21 @@
 ##例子
  
 ```javascript
-  var ihubo = {
-    nickName  : "草依山",
-    site : "http://jser.me"
-  }
+  {
+    "message": "操作成功", 
+    "content": [
+        {
+            "id": 76, 
+            "drugId": "9387", 
+            "routeId": 27
+        }, 
+        {
+            "id": 75, 
+            "drugId": "9387", 
+            "routeId": 24
+        }
+    ], 
+    "total": 0, 
+    "flag": "S"
+}
 ```
