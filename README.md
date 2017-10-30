@@ -26,9 +26,9 @@
  
  | 参数名称 | 是否必须 | 数据类型 | 描述 | 
  | ------ | ------ | ------- |  ------- | 
- | message | true | string | | 
- | content | true | array[object] | |
- | id | true | string | ID主键 |
+ | <font color=red>message</font> | true | string | | 
+ | <font color=red>content</font> | true | array[object] | |
+ | <font color=red>id</font> | true | string | ID主键 |
  
 ##例子
  
