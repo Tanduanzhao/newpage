@@ -13,6 +13,7 @@
 接口状态: 有效
 
 ##接口描述
+
 > 药品目录化学药中成药列表查询 $path$/mcdProduct30/hisProductInfo —> $path$/mcdProduct30/listHisProduct
 
 ##请求参数
