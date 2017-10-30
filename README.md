@@ -10,7 +10,7 @@
 ##响应数据
 | 参数名称 | 是否必须 | 数据类型 | 描述 |
 | ------ | ------ | ------- |  ------- |
-| message | true | string |
-| content | true | array[object] |
+| message | true | string | |
+| content | true | array[object] | |
 | id | true | string | ID主键 |
 
