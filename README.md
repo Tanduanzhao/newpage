@@ -16,12 +16,12 @@
  
  药品目录化学药中成药列表查询 $path$/mcdProduct30/hisProductInfo ——> $path$/mcdProduct30/listHisProduct
  
-##请求参数
+ ##请求参数
  | 参数名称 | 是否必须 | 类型 | 默认值 | 描述 |
  | ------ | ------ | ------- |  ------- |  ------- |
  | drugId |  false |  string | 0000027103 | 药品ID |
 
-##请求参数
+ ##响应
  | 参数名称 | 是否必须 | 数据类型 | 描述 | 
  | ------ | ------ | ------- |  ------- | 
  | message | true | string | | 
