@@ -20,7 +20,7 @@
  
  | 参数名称 | 是否必须 | 类型 | 默认值 | 描述 |
  | ------ | ------ | ------- |  ------- |  ------- |
- | <font color=#00ffff size=3>drugId</font> |  false |  string | 0000027103 | 药品ID |
+ | <font color=red>drugId</font> |  false |  string | 0000027103 | 药品ID |
 
 ##响应
  
